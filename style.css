@@ -1,0 +1,105 @@
+.bg{
+    background-color: black;
+}
+
+.mod{
+    text-decoration: none;
+}
+
+.container-lg{
+    padding-top: 300px;
+}
+
+.h1{
+    font-size: 8rem;
+    color: #3ED0EB;
+}
+
+.h1m{
+    font-size: 3rem;
+    color: #3ED0EB;
+}
+
+/* .h0{
+    margin-bottom: 100px;
+    margin-top: 350px;
+} */
+
+.h2{
+    font-size: 4rem;
+    color: white;
+}
+
+.h2m{
+    font-size: 1.25rem;
+    color: white;
+}
+
+.h5{
+    font-size: 2.25rem;
+    color: #7630D9;
+    margin-top: 50px;
+    font-weight: lighter;
+}
+
+.h5m{
+    font-size: 0.75rem;
+    color: #7630D9;
+    margin-top: 50px;
+    font-weight: lighter;
+}
+
+.h6{
+    font-size: 2rem;
+    color: #7630D9;
+    margin-top: 30px;
+    font-weight: lighter;
+    padding-left: 50px;
+}
+
+.h6m{
+    font-size: 1rem;
+    color: #7630D9;
+    margin-top: 30px;
+    font-weight: lighter;
+    padding-left: 50px;
+}
+
+
+
+.indent {
+    margin-top: 70px;
+}
+
+.mid {
+    margin-top: 180px;
+    padding:3%;
+}
+
+.points {
+    margin-top: 25px;
+    padding-left: 85px;
+}
+
+.page {
+    padding-bottom: 200px;
+}
+
+.page-sm{
+    padding-bottom: 100px;
+}
+
+.paddsm{
+    margin-top: 200px;
+}
+
+
+.pink{
+    color: #F06BF2;
+}
+
+.purple{
+
+    color: #7630D9;
+
+}
